@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "jwtSecret": "very secret string",
+  "mongoUri": "mongodb+srv://admin:qwe123@cluster0.jelox.azure.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
